@@ -1,0 +1,9 @@
+1. Used for transfering hyper text protocols.
+2. URL is an address to access resources on the internet. 
+3. Phone book of the internet which converts domain names into IP addresses 
+4. A query string is part of the URL starting with the ? symbol, it acts as parameters for transmitting Information 
+5. GET (recieving data), POST (submitting data)
+6. Using the web browser to request access to a server. 
+7. Response will either direct you to your preffered site or present you an error code (ex. 404, 200)
+8. Information sent with the response (request ex. hostname your asking about, date your browswer thinks in, cookies the server has sent), (Response ex. content type, cachine information, error codes if the website is non-existent)
+9. Web Browser request to server, server to DB server internal transfer, server response to web browser.
